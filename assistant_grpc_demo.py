@@ -14,6 +14,7 @@
 # limitations under the License.
 
 """A demo of the Google Assistant GRPC recognizer."""
+# Jorge version
 
 import logging
 

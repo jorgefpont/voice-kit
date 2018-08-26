@@ -15,6 +15,7 @@
 
 """A demo of the Google Assistant GRPC recognizer."""
 # Jorge version
+# change to test git editor
 
 import logging
 
